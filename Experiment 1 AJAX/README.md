@@ -2,9 +2,9 @@
 
 ## Lessons
 
-* Learn how to use """XMLHttpRequest"""
+* Learn how to use `XMLHttpRequest`
 
-* Try play with <div> and <btn>
+* Try play with `<div>` and `<btn>`
 
 * Try programming using js(It is quite similar to C!)
 
